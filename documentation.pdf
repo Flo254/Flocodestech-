@@ -1,0 +1,1298 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 463
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 24 Tf
+27.5999999999999979 TL
+0 g
+186.1599999999999682 785.1970866141732586 Td
+(Base Converter Pro) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+173.0799999999999272 756.8506299212598378 Td
+(Program & Process Documentation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+200.9899999999999523 700.15771653543311 Td
+(Advanced Number System Conversion Tool) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+275.589999999999975 680.3151968503937042 Td
+(10/2/2025) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1033
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Table of Contents) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 742.6774015748030706 Td
+(1. Overview) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 722.8348818897637784 Td
+(2. Core Conversion Engine) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 702.9923622047243725 Td
+(3. Storage Module) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 683.1498425196850803 Td
+(4. Validation Module) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 663.3073228346456744 Td
+(5. State Management) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 643.4648031496062686 Td
+(6. UI Component System) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 623.6222834645668627 Td
+(7. Type System) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 603.7797637795274568 Td
+(8. Application Process Flow) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 1362
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(1. Overview) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(Base Converter Pro is a modern web application designed for converting numbers) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 739.8427559055118081 Td
+(between different numeral systems including Binary \(Base 2\), Octal \(Base 8\),) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 722.8348818897637784 Td
+(Decimal \(Base 10\), and Hexadecimal \(Base 16\).) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 688.819133858267719 Td
+(The application features:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 671.8112598425196893 Td
+(• Real-time number conversion) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 654.8033858267716596 Td
+(• Input validation for each base system) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 637.7955118110235162 Td
+(• Persistent conversion history) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 620.7876377952754865 Td
+(• Modern, responsive user interface) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 603.7797637795274568 Td
+(• Complete offline functionality) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1964
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(2. Core Conversion Engine) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(The heart of the application - handles number system conversions) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Key Features:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 708.6616535433070112 Td
+(• Multi-base conversion \(Binary, Octal, Decimal, Hexadecimal\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 691.6537795275589815 Td
+(• Input validation for each base system) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 674.6459055118109518 Td
+(• Error handling and user feedback) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(• Decimal intermediary conversion approach) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 626.4569291338582389 Td
+(Implementation:) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 606.614409448818833 Td
+(const convertNumber = \(input: string, fromBase: number, toBase: number\) => {) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 592.4411811023621794 Td
+(  // Step 1: Convert to decimal) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 578.2679527559055259 Td
+(  const decimal = parseInt\(input, fromBase\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 564.0947244094487587 Td
+(  ) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 549.9214960629921052 Td
+(  // Step 2: Convert from decimal to target base) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 535.748267716535338 Td
+(  return decimal.toString\(toBase\).toUpperCase\(\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 521.5750393700786844 Td
+(};) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1924
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(3. Storage Module) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(Manages persistent data using browser localStorage) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Key Features:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 708.6616535433070112 Td
+(• Automatic history saving) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 691.6537795275589815 Td
+(• Data persistence across sessions) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 674.6459055118109518 Td
+(• JSON serialization/deserialization) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(• Error handling for storage operations) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 626.4569291338582389 Td
+(Implementation:) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 606.614409448818833 Td
+(const saveHistory = \(history: ConversionRecord[]\) => {) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 592.4411811023621794 Td
+(  localStorage.setItem\('conversionHistory', JSON.stringify\(history\)\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 578.2679527559055259 Td
+(};) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 549.9214960629921052 Td
+(const loadHistory = \(\): ConversionRecord[] => {) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 535.748267716535338 Td
+(  const saved = localStorage.getItem\('conversionHistory'\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 521.5750393700786844 Td
+(  return saved ? JSON.parse\(saved\) : [];) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 507.4018110236219741 Td
+(};) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 2022
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(4. Validation Module) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(Ensures input integrity and prevents invalid conversions) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Key Features:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 708.6616535433070112 Td
+(• Character validation per base) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 691.6537795275589815 Td
+(• Regular expression patterns) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 674.6459055118109518 Td
+(• Real-time input checking) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(• User-friendly error messages) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 626.4569291338582389 Td
+(Implementation:) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 606.614409448818833 Td
+(const isValidInput = \(value: string, base: number\): boolean => {) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 592.4411811023621794 Td
+(  const patterns = {) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 578.2679527559055259 Td
+(    2: /^[01]+$/,) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 564.0947244094487587 Td
+(    8: /^[0-7]+$/,) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 549.9214960629921052 Td
+(    10: /^[0-9]+$/,) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 535.748267716535338 Td
+(    16: /^[0-9A-Fa-f]+$/) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 521.5750393700786844 Td
+(  };) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 507.4018110236219741 Td
+(  return patterns[base].test\(value\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 493.2285826771653205 Td
+(};) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 1663
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(5. State Management) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(React hooks for managing application state) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Key Features:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 708.6616535433070112 Td
+(• useState for local state) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 691.6537795275589815 Td
+(• useEffect for side effects) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 674.6459055118109518 Td
+(• Reactive UI updates) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(• Efficient re-rendering) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 626.4569291338582389 Td
+(Implementation:) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 606.614409448818833 Td
+(const [inputValue, setInputValue] = useState\(''\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 592.4411811023621794 Td
+(const [fromBase, setFromBase] = useState\(10\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 578.2679527559055259 Td
+(const [toBase, setToBase] = useState\(2\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 564.0947244094487587 Td
+(const [result, setResult] = useState\(''\);) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 549.9214960629921052 Td
+(const [history, setHistory] = useState<ConversionRecord[]>\([]\);) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 832
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(6. UI Component System) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(Reusable components with shadcn/ui) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Key Features:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 708.6616535433070112 Td
+(• Card-based layouts) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 691.6537795275589815 Td
+(• Responsive design) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 674.6459055118109518 Td
+(• Accessibility support) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(• Consistent design system) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 1696
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(7. Type System) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(TypeScript interfaces for type safety) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Key Features:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 708.6616535433070112 Td
+(• Strong typing) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 691.6537795275589815 Td
+(• Interface definitions) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 674.6459055118109518 Td
+(• IntelliSense support) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 657.6380314960629221 Td
+(• Compile-time error checking) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 626.4569291338582389 Td
+(Implementation:) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 606.614409448818833 Td
+(interface ConversionRecord {) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 592.4411811023621794 Td
+(  input: string;) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 578.2679527559055259 Td
+(  fromBase: number;) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 564.0947244094487587 Td
+(  output: string;) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 549.9214960629921052 Td
+(  toBase: number;) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 535.748267716535338 Td
+(  timestamp: string;) Tj
+ET
+BT
+/F5 9 Tf
+10.3499999999999996 TL
+0 g
+70.8661417322834666 521.5750393700786844 Td
+(}) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 1564
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(8. Application Process Flow) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(Step-by-step execution of conversion operations:) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 714.3309448818897636 Td
+(Step 1: User Input) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 697.3230708661417339 Td
+(User enters a number and selects source base system) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 668.9766141732283131 Td
+(Step 2: Validation) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 651.9687401574802834 Td
+(Input is validated against allowed characters for selected base) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 623.6222834645668627 Td
+(Step 3: Conversion) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 606.614409448818833 Td
+(Number is converted to decimal, then to target base) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 578.2679527559055259 Td
+(Step 4: Result Display) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 561.2600787401574962 Td
+(Converted value is displayed with formatting) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 532.9136220472440755 Td
+(Step 5: History Storage) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+70.8661417322834666 515.9057480314959321 Td
+(Conversion record is saved to localStorage) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 962
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Technology Stack) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(• React 18.3 - UI Library) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 720.0002362204724022 Td
+(• TypeScript - Type Safety) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 697.3230708661417339 Td
+(• Tailwind CSS - Styling) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 674.6459055118109518 Td
+(• shadcn/ui - Component Library) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 651.9687401574802834 Td
+(• Vite - Build Tool) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 629.291574803149615 Td
+(• localStorage - Data Persistence) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 606.614409448818833 Td
+(• Lucide React - Icons) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+/Count 11
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+29 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+30 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+31 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+35 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+36 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+37 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+38 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 25 0 R
+/F2 26 0 R
+/F3 27 0 R
+/F4 28 0 R
+/F5 29 0 R
+/F6 30 0 R
+/F7 31 0 R
+/F8 32 0 R
+/F9 33 0 R
+/F10 34 0 R
+/F11 35 0 R
+/F12 36 0 R
+/F13 37 0 R
+/F14 38 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+39 0 obj
+<<
+/Producer (jsPDF 3.0.3)
+/CreationDate (D:20251002114423+03'00')
+>>
+endobj
+40 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000017599 00000 n 
+0000019489 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000000666 00000 n 
+0000000803 00000 n 
+0000001888 00000 n 
+0000002025 00000 n 
+0000003439 00000 n 
+0000003577 00000 n 
+0000005594 00000 n 
+0000005733 00000 n 
+0000007710 00000 n 
+0000007849 00000 n 
+0000009924 00000 n 
+0000010063 00000 n 
+0000011779 00000 n 
+0000011918 00000 n 
+0000012802 00000 n 
+0000012941 00000 n 
+0000014690 00000 n 
+0000014829 00000 n 
+0000016446 00000 n 
+0000016585 00000 n 
+0000017724 00000 n 
+0000017850 00000 n 
+0000017981 00000 n 
+0000018115 00000 n 
+0000018253 00000 n 
+0000018377 00000 n 
+0000018506 00000 n 
+0000018638 00000 n 
+0000018774 00000 n 
+0000018902 00000 n 
+0000019029 00000 n 
+0000019158 00000 n 
+0000019291 00000 n 
+0000019393 00000 n 
+0000019742 00000 n 
+0000019828 00000 n 
+trailer
+<<
+/Size 41
+/Root 40 0 R
+/Info 39 0 R
+/ID [ <EAE4425EB99BD21BB638C564278AD3B7> <EAE4425EB99BD21BB638C564278AD3B7> ]
+>>
+startxref
+19932
+%%EOF
